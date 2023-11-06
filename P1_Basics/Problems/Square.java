@@ -1,4 +1,4 @@
-package A_Basics.Problems;
+package P1_Basics.Problems;
 import java.util.*;
 public class Square {
     public static void main(String[] args){

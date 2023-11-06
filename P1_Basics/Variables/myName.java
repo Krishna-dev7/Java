@@ -1,4 +1,4 @@
-package A_Basics.Variables;
+package P1_Basics.Variables;
 import java.util.Scanner;
 public class myName {
     public static void main(String[] args){
