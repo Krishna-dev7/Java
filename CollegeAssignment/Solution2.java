@@ -1,4 +1,4 @@
-package CollegeAssignment;
+package CollegeAssignment.Solution;
 import java.util.*;
 
 public class Solution2 {
