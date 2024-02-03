@@ -1,4 +1,4 @@
-package CollegeAssignment.Solution;
+package Solution;
 import java.util.*;
 
 public class packages {
@@ -22,7 +22,7 @@ class Trial{
         defaultMember = 30;
         privateMember = 40;
     }
-    void p(int val){
+    public void p(int val){
         System.out.println(val);
     }
 }

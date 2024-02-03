@@ -1,9 +1,9 @@
 package CollegeAssignment;
-import Solution.*;
-import java.util.*;
+import Solution.Printable;
+// import java.util.*
 
 public class usePackage {
-    public static void main(String[] args);
-    Trial t = new Trial();
-    t.p(23);
+    public static void main(String[] args){
+        Printable.pc("hello World");
+    }
 }
